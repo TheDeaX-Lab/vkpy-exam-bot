@@ -1,0 +1,5 @@
+aiohttp
+pydantic
+ujson
+https://github.com/prostomarkeloff/vk.py/archive/master.zip
+watchgod

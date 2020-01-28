@@ -1,0 +1,7 @@
+version: '3'
+services:
+  vkbot:
+    build: .
+    volumes:
+      - .:/code
+    command: python app.py

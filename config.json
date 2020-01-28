@@ -1,0 +1,8 @@
+{
+  "token": "Твой токен",
+  "group_id": Твой id группы,
+  "logging_level": "DEBUG",
+  "logging_to_file": false,
+  "logging_path": "bot/logs",
+  "logging_file": "bot.log"
+}
